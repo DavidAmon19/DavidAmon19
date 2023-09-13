@@ -1,6 +1,6 @@
 ### Desenvolvedor Front-End
 
-<p>💻 Atualmente trabalho como Administrador de Banco de dados pela empresa LinkedBy.</p>
+<p>💻 Atualmente estou estagiando como desenvolvedor JAVA na empresa CORPVS e sou Monitor de sala na Digital College.</p>
 <p>🎓 Graduando em Analise e desenvolvimento de sistemas pela UniFanor Wyden</p>
 <p>🤖 Estudante da Digital College formação FullStack</p>
 
