@@ -40,7 +40,5 @@
   <br>
   <br>
 
-  <div>
-  <p >&nbsp; <img  align="left" src="https://github-readme-stats.vercel.app/api?username=DavidAmon19&theme=algolia" width="380" > </img>
- <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=DavidAmon19&theme=algolia" alt="DavidAmon19" width="380" /></p> 
+  <div> 
 </div>
