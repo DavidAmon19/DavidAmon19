@@ -1,8 +1,8 @@
-### Desenvolvedor Front-End
+### Desenvolvedor FullStack
 
-<p>💻 Atualmente estou estagiando como desenvolvedor JAVA na empresa CORPVS e sou Monitor de sala na Digital College.</p>
+<p>💻 Atualmente estou estagiando como desenvolvedor JAVA na empresa CORPVS e sou Professor na Digital College.</p>
 <p>🎓 Graduando em Analise e desenvolvimento de sistemas pela UniFanor Wyden</p>
-<p>🤖 Estudante da Digital College formação FullStack</p>
+
 
 
 
