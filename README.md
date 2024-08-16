@@ -1,7 +1,7 @@
 ### Desenvolvedor FullStack
 
-<p>💻 Desenvolvedor Web Junior na Wiser Tecnologia e Professor na Digital College.</p>
-<p>🎓 Graduando em Analise e desenvolvimento de sistemas pela UniFanor Wyden</p>
+<p>💻 Desenvolvedor Front-End Junior na MKOM e Professor na Digital College.</p>
+<p>🎓 Graduando em Analise e desenvolvimento de sistemas pela Descomplica</p>
 
 
 
