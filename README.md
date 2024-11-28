@@ -1,6 +1,6 @@
 ### Desenvolvedor FullStack
 
-<p>💻 Desenvolvedor Front-End Junior na MKOM e Professor na Digital College.</p>
+<p>💻 Desenvolvedor Back-end Junior na Astrotech e Professor na Digital College.</p>
 <p>🎓 Graduando em Analise e desenvolvimento de sistemas pela Descomplica</p>
 
 
