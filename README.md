@@ -1,6 +1,6 @@
 ### Desenvolvedor FullStack
 
-<p>💻 Desenvolvedor Back-end Junior na Astrotech e Professor na Digital College.</p>
+<p>💻 Engenheiro de Soluções Senior na Fortics Tecnologia.</p>
 <p>🎓 Graduando em Analise e desenvolvimento de sistemas pela Descomplica</p>
 
 
